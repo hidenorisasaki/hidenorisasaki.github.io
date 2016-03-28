@@ -1,0 +1,10 @@
+body {
+    background-color: #ddd;
+}
+
+header{
+    background-image: url("bg.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
