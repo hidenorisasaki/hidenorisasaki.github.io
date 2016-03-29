@@ -22,6 +22,7 @@ navbar navbar-default{
 }
 
 #capture{
+    display :block;
     background-color: #e0f0ff;
     border: 5px solid white;
     border-radius:5%
